@@ -10,7 +10,12 @@ export class UsersService {
             password: 'Kotresh893',
         },
         {
-            userId: 2,
+            userId: 2, 
+            username: "john",
+            password: "changeme",
+        },
+        {
+            userId: 3,
             username: 'Priyanka012',
             password: 'Priyanka893',
         },
